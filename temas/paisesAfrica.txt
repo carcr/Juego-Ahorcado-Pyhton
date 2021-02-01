@@ -1,0 +1,52 @@
+angola
+argelia
+benin
+botsuana
+burkina faso
+burundi
+cabo verde
+camerun
+chad
+comoras
+republica del congo
+republica democratica del congo
+costa de marfil
+egipto
+eritrea
+etiopia
+gabon
+gambia
+ghana
+guinea
+guinea ecuatorial
+kenia
+lesoto
+libia
+liberia
+madagascar
+maluai
+maluai
+marruecos
+mauricio
+mauritania
+mozambique
+namibia
+niger
+nigeria
+reunion
+ruanda
+senegal
+seychelles
+sierra leona
+somalia
+sudafrica
+sudan
+sudan del sur
+suazilandia
+tanzania
+togo
+tunez
+uganda
+yibuti
+zambia
+zimbabue
